@@ -1,0 +1,5 @@
+#!/bin/sh
+
+git diff "$@" > /tmp/kompare.diff && kompare /tmp/kompare.diff
+
+wait

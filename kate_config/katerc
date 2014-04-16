@@ -1,0 +1,532 @@
+block=false
+build=true
+close_tag=false
+commentar=false
+console=false
+expand=false
+format=false
+gid=false
+tools=false
+
+[$Version]
+update_info=kate-2.4.upd:kate2.4
+
+[CTags]
+GlobalCommand=ctags -R --c++-types=+px --extra=+q --excmd=pattern --exclude=Makefile --exclude=.
+GlobalNumTargets=1
+GlobalTarget_  0=/home/atreat/dev/chromium/src/
+
+[CloseConfirmationDialog]
+Height 1200=319
+Width 1920=359
+
+[Colors]
+CurrentPalette=Forty Colors
+
+[Desktop Entry]
+DefaultProfile=LinuxMint.profile
+
+[Document 0]
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=
+
+[Favorite Profiles]
+Favorites=
+
+[FileList]
+Edit Shade=255,201,241
+Shading Enabled=false
+SortRole=0
+View Shade=185,178,206
+
+[Filelist]
+Edit Shade=255,102,153
+Shading Enabled=false
+Sort Type=1
+View Shade=51,204,255
+
+[General]
+Days Meta Infos=30
+First Start=false
+Last Session=
+Modified Notification=true
+Restore Documents=false
+Restore Projects=false
+Restore Window Configuration=true
+Save Meta Infos=false
+Session Exit=save
+Show Console=false
+Show Full Path in Title=true
+Show Status Bar=true
+ShowAlternativeShortcutConfig=true
+Startup Session=new
+Sync Konsole=false
+
+[GrepTool]
+CaseSensitive=true
+LastSearchFiles=*.h\\,*.hxx\\,*.cpp\\,*.cc\\,*.C\\,*.cxx\\,*.idl\\,*.c\\,*.txt,*.h\\,*.hxx\\,*.cpp\\,*.cc\\,*.C\\,*.cxx\\,*.idl\\,*.c,*.cpp\\,*.cc\\,*.C\\,*.cxx\\,*.c,*.h\\,*.hxx\\,*.idl,*
+LastSearchItems=QVxServiceClient,QVxServiceInterface,(QString,KstDialogs::,_[a-z0-9_$]\\\\+[\\\\t ]*.find(,\\\\\\\\*_[a-z0-9_$]\\\\+[\\\\t ]*.find(,*_[a-z0-9_$]\\\\+[\\\\t ]*.find(,//*_[a-z0-9_$]\\\\+[\\\\t ]*.find(,\\\\*_[a-z0-9_$]\\\\+[\\\\t ]*.find(,/*_[a-z0-9_$]\\\\+[\\\\t ]*.find(
+LastSearchPaths=/home/manyoso/dev/oogclient_mvc/QtClient,/home/manyoso/dev/vivox/QtClient,/home/kde/branches/work/kst/portto4/kst/src/libkstmath,/home/kde/branches/work/kst/portto4/kst/src/,/home/kde/branches/work/kst/portto4/kst/src/libkst,/home/kde/trunk/labs.trolltech.com/WebKit_WORK/WebCore/,/home/kde/branches/work/kst/portto4/kst/src/libkstapp,/home/kde/branches/work/kst/portto4/,/home/manyoso/staikos/code/trunk/motorola/lj_webkit_tot/WebKit/WebCore/,/home/manyoso/staikos/trunk/motorola/lj_webkit_tot/WebKit/WebCore/platform/image-decoders
+Recursive=false
+Regex=true
+
+[KDE]
+MultipleInstances=false
+
+[KFileDialog Settings]
+Automatic Preview=true
+Autoplay sounds=true
+Height 1050=614
+Height 1200=565
+Height 900=445
+Recent Files[$e]=$HOME/Public/overflow_optimization.html,$HOME/dev/chromium2/src/cc/layers/layer_impl.h,$HOME/dev/chromium2/src/cc/layers/layer.cc,$HOME/dev/chromium2/src/cc/layers/layer.h,$HOME/dev/chromium2/src/cc/trees/layer_tree_settings.h,$HOME/dev/chromium2/src/content/shell/browser/shell.cc,$HOME/dev/chromium2/src/content/shell/browser/shell.h,$HOME/dev/chromium2/src/ui/compositor/compositor.cc,$HOME/dev/chromium2/src/cc/trees/layer_tree_host.h,$HOME/dev/chromium2/src/cc/trees/layer_tree_host.cc,$HOME/dev/chromium2/src/cc/trees/layer_tree_host_common.cc,$HOME/dev/chromium2/src/cc/trees/layer_tree_host_common.h,$HOME/dev/chromium2/src/cc/layers/contents_scaling_layer.cc,$HOME/dev/chromium2/src/cc/layers/contents_scaling_layer_unittest.cc,$HOME/dev/chromium2/src/cc/layers/contents_scaling_layer.h,$HOME/dev/chromium2/src/cc/layers/tiled_layer.h
+Width 1400=898
+Width 1440=1015
+Width 1600=800
+Width 1920=960
+listViewIconSize=0
+
+[KFileDialog Speedbar]
+Description_0=LIBS
+Description_1=BASE
+Description_2=KDEV
+Description_3=INSTALL
+Description_4=WEBKIT
+IconGroup_0=4
+IconGroup_1=4
+IconGroup_2=4
+IconGroup_3=4
+IconGroup_4=4
+Icon_0=folder
+Icon_1=folder
+Icon_2=folder
+Icon_3=folder
+Icon_4=folder
+Number of Entries=5
+URL_0=file:///home/kde/trunk/KDE/kdelibs
+URL_1=file:///home/kde/trunk/KDE/kdebase
+URL_2=file:///home/kde/trunk/KDE/kdevelop
+URL_3=file:///home/kde/install/regular
+URL_4=file:///home/kde/trunk/webkit/
+
+[KMimeTypeChooserDialog]
+size=541,300
+
+[KPrinter Settings]
+ApplicationOptions=app-kate-boxcolor,#000000,app-kate-boxmargin,6,app-kate-boxwidth,1,app-kate-colorscheme,kate - Printing,app-kate-footerbg,#d3d3d3,app-kate-footerfg,#000000,app-kate-footerformat,||%U,app-kate-footerusebg,true,app-kate-headerbg,#d3d3d3,app-kate-headerfg,#000000,app-kate-headerformat,%y|%f|%p,app-kate-headerusebg,true,app-kate-hffont,,app-kate-printguide,false,app-kate-printlinenumbers,false,app-kate-printselection,false,app-kate-usebackground,false,app-kate-usebox,false,app-kate-usefooter,true,app-kate-useheader,true
+DialogReduced=true
+PrintCommand=
+Printer=deskjet940c
+
+[KTEXTEDITOR:]
+DEVELOPER_INFO=NEVER TRY TO USE VALUES FROM THAT GROUP, THEY ARE SUBJECT TO CHANGES
+
+[Kate Document Defaults]
+Allow End of Line Detection=true
+Allow Simple Mode=true
+BOM=false
+Backup Config Flags=0
+Backup Prefix=
+Backup Suffix=~
+Basic Config Flags=115867680
+Encoding=UTF-8
+End of Line=0
+Indentation Mode=normal
+Indentation Width=2
+KTextEditor Plugin ktexteditor_docwordcompletion=false
+KTextEditor Plugin ktexteditor_insertfile=false
+KTextEditor Plugin ktexteditor_isearch=false
+KTextEditor Plugin ktexteditor_kdatatool=false
+KTextEditor Plugin ktexteditor_kttsd=false
+Maximal Loaded Blocks=16
+Newline At EOF=false
+On-The-Fly Spellcheck=false
+PageUp/PageDown Moves Cursor=false
+ProberType for Encoding Autodetection=0
+Remove Spaces=0
+ReplaceTabsDyn=false
+Script for Encoding Autodetection=0
+Search Dir Config Depth=-1
+Show Spaces=true
+Tab Handling=2
+Tab Width=2
+Undo Steps=0
+Word Wrap=false
+Word Wrap Column=80
+
+[Kate Main Window]
+Height 1024=1025
+Width 1280=1281
+
+[Kate Plugins]
+kate_kttsd=false
+katebacktracebrowserplugin=false
+katebuildplugin=false
+katecloseexceptplugin=false
+katecppsymbolviewerplugin=false
+katectagsplugin=false
+kateexternaltoolsplugin=false
+katefilebrowserplugin=false
+katefiletemplates=false
+katefiletreeplugin=true
+katefindinfilesplugin=false
+katefll_plugin=false
+katehelloworldplugin=false
+katehtmltoolsplugin=false
+kateinsertcommandplugin=false
+katekonsoleplugin=true
+katemailfilesplugin=false
+katemakeplugin=true
+katemodelineplugin=true
+kateopenheaderplugin=false
+katepateplugin=false
+kateprojectplugin=false
+katepybrowseplugin=false
+katequickdocumentswitcherplugin=false
+katesearchplugin=false
+katesnippetsplugin=false
+katesymbolviewerplugin=false
+katetabbarextensionplugin=false
+katetextfilterplugin=false
+katexmlcheckplugin=false
+katexmltoolsplugin=false
+libkatetabbarextensionplugin=false
+
+[Kate Print Settings][HeaderFooter]
+FooterBackground=211,211,211
+FooterBackgroundEnabled=false
+FooterEnabled=true
+FooterForeground=0,0,0
+FooterFormatCenter=
+FooterFormatLeft=
+FooterFormatRight=%U
+HeaderBackground=211,211,211
+HeaderBackgroundEnabled=false
+HeaderEnabled=true
+HeaderFooterFont=Sans Serif,9,-1,5,50,0,0,0,0,0
+HeaderForeground=0,0,0
+HeaderFormatCenter=%f
+HeaderFormatLeft=%y
+HeaderFormatRight=%p
+
+[Kate Print Settings][Layout]
+BackgroundColorEnabled=false
+BoxColor=invalid
+BoxEnabled=false
+BoxMargin=6
+BoxWidth=1
+ColorScheme=Printing
+
+[Kate Print Settings][Margins]
+bottom=3.52777777777944
+left=3.52777777777944
+right=3.52777777777944
+top=3.52777777777944
+
+[Kate Print Settings][Text]
+Legend=false
+LineNumbers=false
+
+[Kate Renderer Defaults]
+Animate Bracket Matching=false
+Schema=Kate (dark)
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=true
+
+[Kate Vi Input Mode Settings]
+Command Mode Mapping Keys=
+Command Mode Mappings=
+Command Mode Mappings Recursion=
+Insert Mode Mapping Keys=
+Insert Mode Mappings=
+Insert Mode Mappings Recursion=
+Macro Completions=
+Macro Contents=
+Macro Registers=
+Normal Mode Mapping Keys=
+Normal Mode Mappings=
+Normal Mode Mappings Recursion=
+Visual Mode Mapping Keys=
+Visual Mode Mappings=
+Visual Mode Mappings Recursion=
+
+[Kate View Defaults]
+Auto Center Lines=0
+Auto Completion=true
+Bookmark Menu Sorting=0
+Command Line=false
+Default Mark Type=1
+Dynamic Word Wrap=true
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap Indicators=1
+Folding Bar=false
+Icon Bar=false
+Line Numbers=true
+Persistent Selection=false
+Replacement Text History=,RenderObject*,virtual void doSomethingNonRecursive(QDebug &dbg\\, const Order& order),nextInPreOrder(),Baz,Bar,Foo,","\\\\n";,nextInPreOrder,.cpp,QString,firstChild();,RenderTree,next,previous,current,status=stable\\, force=enable,status=stable\\, force=disable,m_plugin,',npos,string_to_measure::npos,MeasuredStringStats::, const {},) {},measured_string&,(,measured_string,string_to_measure,)  {}, typedef String::,d_,mv ./,Widget,widget,kate ,MaxPartialTextureUpdates(),sform,SFORM,InstCombineAndOrXUtils,MemCpyOptPass,#include "../llvm/lib/CodeGen/,X86CodeEmitterUtils,h3,m_parserAction->getObject(),kate,$(I),.s ,.s,-S -o,-s -o,git add ,perl -i -pe 's/\\\\\\\\/\\\\//g if m/^#include/i' ,perl -i -pe 's/\\\\\\\\/\\\\//g if m/^#include/i',LcdDriverStatePtr,platformLayer\\\\(\\\\),platformLayer(),OpenVG,platformLayer,QWebSettings::pluginDatabase(),ASSERT,webkitGenerateCommitMessage,_PRIMARY_HEADER,rm ,$parseonly,parse-only,item,#ifndef SAVE_SPACE,m_slab16,qtGlyphSubstitutions->insert(,\\, 0x200c);,0x200c,0x20,qtGlyphSubstitutions->,node->title(),$$ANTLR_DIR/Asm.g.i,RenderThemeCrossPlatform,_iris
+Scroll Bar Marks=false
+Scroll Bar Mini Map=false
+Scroll Past End=false
+Search Config Flags=0
+Search Pattern History=256,d = other.d,operator=,clone,delete,bar,@_ZdlPv,IsImplSidePaintingEnabled,impl_side,impl_side_painting,settings_,impl_side_paint,::decode,destroy(),RenderView,ASSERT,view,::destroy,willBeDestroyed,destroy,addRenderer,addRendererWithOffscreenAnimations,m_node,DOMWindowBingSearchEngineClientImpl,provideDOMWindowBingSearchEngineTo,updateLayerTreeViewport,didScrollRect,InvalidationCallback,s_numberOfIn,visible,WebLayer,layer,Anima,TileManagerClient,LayerTreeHostClient,_layer,layer_,is_load,is_loading,::Update,size,fprintf,postPro,didStart,1416,SetNeedsDisplayRect,TRACK_REPAINTS,s_numberOfInvali,s_numberOfPaints,paintsEntireContents,repaintContentRectangle,repaintUsingContainer,m_trackedRepaintRects,forceCompos,setForceCompositingMode,setForceComp,m_isAcceleratedCompositingActive,invalidateRect,IsForceCompositingModeEnabled,m_next,suspend,_PrepareAndRunPage,StartBrowserIfNeeded,StartProfiling,CollectData,m_renderer,initializeLayoutState,currentStatePusherRenderBox,FrameViewLayoutStateMaintainer,pushLayoutState,disableLayoutStat,m_frameView,pushLayoutStateForCurrentFlowThread,FrameView,popLayoutState,LayoutStateDisabl,using,LayoutState,LayoutStateMain,m_columnInfo,testRunning,pushLayoutState(,shouldDisable,shouldDisableLayoutStateForSubtree,m_layoutStateDisableCount,disableLayoutState,inline,0x38cb75620450,layoutPositionedO,layoutPosit,->layout(,->layout,layoutBlockChild,m_verticalScrollbar =,m_verticalScrollbar,scrollbarExistenceDidChange,needsLayout,m_contentsSize =,contents,statePusher
+Search/Replace Flags=141
+Smart Copy Cut=false
+Text To Search Mode=2
+Vi Input Mode=false
+Vi Input Mode Emulate Command Bar=false
+Vi Input Mode Hide Status Bar=false
+Vi Input Mode Steal Keys=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[KateSQLPlugin]
+SaveConnections=true
+
+[KateSQLPlugin][OutputCustomization][blob]
+backgroundColor=255,255,255
+font=Sans Serif,9,-1,5,50,0,0,0,0,0
+foregroundColor=20,19,18
+
+[KateSQLPlugin][OutputCustomization][bool]
+backgroundColor=255,255,255
+font=Sans Serif,9,-1,5,50,0,0,0,0,0
+foregroundColor=20,19,18
+
+[KateSQLPlugin][OutputCustomization][datetime]
+backgroundColor=255,255,255
+font=Sans Serif,9,-1,5,50,0,0,0,0,0
+foregroundColor=20,19,18
+
+[KateSQLPlugin][OutputCustomization][null]
+backgroundColor=255,255,255
+font=Sans Serif,9,-1,5,50,0,0,0,0,0
+foregroundColor=20,19,18
+
+[KateSQLPlugin][OutputCustomization][number]
+backgroundColor=255,255,255
+font=Sans Serif,9,-1,5,50,0,0,0,0,0
+foregroundColor=20,19,18
+
+[KateSQLPlugin][OutputCustomization][text]
+backgroundColor=255,255,255
+font=Sans Serif,9,-1,5,50,0,0,0,0,0
+foregroundColor=20,19,18
+
+[Konsole]
+AutoSynchronize=false
+AutoSyncronize=false
+SetEditor=false
+TerminalList=Terminal,GDB,Android
+
+[MainWindow]
+Height 1050=1051
+Height 1200=1201
+Height 768=689
+Height 900=810
+State=AAAA/wAAAAD9AAAAAAAAB4AAAARBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1024=1016
+Width 1400=1401
+Width 1440=1440
+Width 1600=1600
+Width 1920=1921
+
+[MainWindow][Toolbar mainToolBar]
+Index=0
+
+[MainWindow0]
+Height 1200=1201
+Height 900=901
+Kate-MDI-H-Splitter=270,1619,200
+Kate-MDI-Sidebar-0-Splitter=1089
+Kate-MDI-Sidebar-3-Splitter=1619,0,0
+Kate-MDI-Sidebar-Visible=true
+Kate-MDI-ToolView-kate_plugin_katesearch-Sidebar-Position=1
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Sidebar-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=true
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Visible=true
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Android-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Android-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Android-Sidebar-Position=2
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Android-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Build (1)-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Build (1)-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Build (1)-Sidebar-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Build (1)-Visible=true
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Build-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Build-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Build-Sidebar-Position=2
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Build-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_GDB-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_GDB-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_GDB-Sidebar-Position=1
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_GDB-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Terminal-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Terminal-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Terminal-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_Terminal-Visible=true
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_one-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_one-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_one-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_one-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_two-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_two-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_two-Sidebar-Position=1
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_two-Visible=true
+Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=2
+Kate-MDI-V-Splitter=150,680,380
+State=AAAA/wAAAAD9AAAAAAAAB4AAAARBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=1601
+Width 1920=1921
+
+[MainWindow0 Settings]
+Height 1200=1201
+Height 900=901
+State=AAAA/wAAAAD9AAAAAAAAB4AAAARBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=1601
+Width 1920=1921
+WindowState=2
+
+[MainWindow0-Splitter 0]
+Sizes=1619
+
+[Notification Messages]
+DoNotShowAgainContinueSearchDialog=true
+Kate hide sidebars notification message=false
+closeAll=false
+kate_close_modonhd_2=false
+kate_ignore_modonhd=false
+katesessionmanager_switch_instance=false
+
+[Open Documents]
+Count=1
+
+[Plugin:katebuildplugin:MainWindow:0:build-plugin]
+0 BuildCmd build=make
+0 BuildCmd clean=make clean
+0 BuildCmd config=cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_INSTALL_PREFIX=/usr/local ../
+0 BuildPath=
+0 Target=Default
+0 Target Clean=clean
+0 Target Default=build
+0 Target Names=build,clean,config
+0 Target Previous=build
+Active Target Index=0
+NumTargets=1
+
+[Plugin:katecloseexceptplugin:menu]
+ShowConfirmation=true
+
+[Plugin:katefindinfilesplugin::find-in-files]
+CaseSensitive=false
+FollowDirectorySymlinks=false
+LastSearchFiles=
+LastSearchItems=
+LastSearchPaths=
+Recursive=false
+RegExp=false
+
+[Plugin:katesearchplugin:MainWindow:0:search-plugin]
+CurrentExcludeFilter=-1
+CurrentFilter=0
+ExcludeFilters=
+ExpandSearchResults=false
+Filters=*
+SearchDiskFiles=
+SearchDiskFiless=
+
+[Plugin:pateplugin:load]
+block=false
+build=true
+close_tag=false
+commentar=false
+console=true
+expand=false
+format=false
+gid=false
+tools=false
+
+[PluginSymbolViewer]
+ExpandTree=false
+ViewTypes=false
+
+[Recent Files]
+File1[$e]=$HOME/dev/clang_tests/Makefile
+File10[$d]
+File2[$e]=$HOME/dev/clang_tests/threadsafe.cpp
+File3[$e]=$HOME/Downloads/gerrit_stats.py
+File4[$e]=$HOME/dev/chromium2/src/cc/layers/picture_layer_impl.h
+File5[$e]=$HOME/dev/chromium2/src/cc/resources/picture_layer_tiling_set_unittest.cc
+File6[$e]=$HOME/dev/chromium2/src/cc/resources/picture_layer_tiling.h
+File7[$e]=$HOME/dev/chromium2/src/cc/test/fake_picture_layer_tiling_client.h
+File8[$e]=$HOME/dev/chromium2/src/cc/trees/layer_tree_settings.cc
+File9[$e]=$HOME/dev/chromium2/src/third_party/WebKit/Source/web/WebSettingsImpl.cpp
+Name1[$e]=Makefile
+Name10[$d]
+Name2[$e]=threadsafe.cpp
+Name3[$e]=gerrit_stats.py
+Name4[$e]=picture_layer_impl.h
+Name5[$e]=picture_layer_tiling_set_unittest.cc
+Name6[$e]=picture_layer_tiling.h
+Name7[$e]=fake_picture_layer_tiling_client.h
+Name8[$e]=layer_tree_settings.cc
+Name9[$e]=WebSettingsImpl.cpp
+
+[Shortcut Schemes]
+Current Scheme=Default
+
+[Shortcuts]
+externaltool_CompareCurrentDocumenttoCVS=Shift+F11
+externaltool_RunScript=Ctrl+Shift+X
+kateopenheader_file_openheader=Ctrl+Space
+
+[TipOfDay]
+RunOnStart=false
+TipLastShown=2008,8,2,20,30,51
+
+[fileselector]
+AutoSyncEvents=0
+current filter=
+dir history=
+filter history=
+filter history len=9
+last filter=
+location[$e]=
+pathcombo history len=9
+restore last filter=true
+restore location=true
+toolbar actions=up,back,forward,home,short view,detailed view,bookmarks,sync_dir
+
+[fileselector:dir]
+Separate Directories=false
+Show Preview=false
+Show hidden files=false
+Sort by=Name
+Sort case insensitively=true
+Sort directories first=true
+Sort reversed=false
+View Style=Simple
+
+[fileselector:view]
+ColumnOrder=0,1,2,3,4,5
+ColumnWidths=55,43,47,93,56,55
+SortAscending=true
+SortColumn=0
+
+[filetree]
+listMode=true
+shadingEnabled=false
+showFullPathOnRoots=true
+sortRole=34

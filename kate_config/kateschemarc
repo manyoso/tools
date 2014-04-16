@@ -1,0 +1,42 @@
+[KDE]
+dummy=prevent-empty-group
+
+[Kate (dark)]
+Color Background=0,0,0
+Color Highlighted Bracket=0,0,128
+Color Highlighted Line=88,88,88
+Color Icon Bar=128,128,128
+Color Line Number=255,255,255
+Color MarkType1=0,0,255
+Color MarkType2=255,0,0
+Color MarkType3=255,255,0
+Color MarkType4=255,0,255
+Color MarkType5=160,160,164
+Color MarkType6=0,255,0
+Color MarkType7=255,0,0
+Color Search Highlight=255,153,0
+Color Selection=65,139,212
+Color Separator=128,128,128
+Color Tab Marker=255,255,255
+Color Template Background=204,204,204
+Color Template Editable Placeholder=204,255,204
+Color Template Focused Editable Placeholder=102,255,102
+Color Template Not Editable Placeholder=255,204,204
+Color Word Wrap Marker=255,255,255
+Font=DejaVu Sans Mono,9,-1,5,50,0,0,0,0,0
+dummy=prevent-empty-group
+
+[Normal]
+dummy=prevent-empty-group
+
+[Printing]
+dummy=prevent-empty-group
+
+[Solarized (dark)]
+dummy=prevent-empty-group
+
+[Solarized (light)]
+dummy=prevent-empty-group
+
+[Vim (dark)]
+dummy=prevent-empty-group
