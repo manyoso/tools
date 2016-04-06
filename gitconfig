@@ -1,6 +1,6 @@
 [user]
 	name = Adam Treat
-	email = manyoso@yahoo.com
+	email = atreat@tervela.com
 [color]
 	status = auto
 	diff = auto
@@ -11,3 +11,5 @@
 	filemode = false
 [branch]
 	autosetupmerge = false
+[push]
+	default = matching

@@ -3,10 +3,12 @@ dummy=prevent-empty-group
 
 [Kate (dark)]
 Color Background=0,0,0
-Color Highlighted Bracket=0,0,128
+Color Highlighted Bracket=0,0,192
 Color Highlighted Line=88,88,88
 Color Icon Bar=128,128,128
 Color Line Number=255,255,255
+Color MarkType 1=255,128,0
+Color MarkType 3=0,0,255
 Color MarkType1=0,0,255
 Color MarkType2=255,0,0
 Color MarkType3=255,255,0
@@ -23,7 +25,7 @@ Color Template Editable Placeholder=204,255,204
 Color Template Focused Editable Placeholder=102,255,102
 Color Template Not Editable Placeholder=255,204,204
 Color Word Wrap Marker=255,255,255
-Font=DejaVu Sans Mono,9,-1,5,50,0,0,0,0,0
+Font=DejaVu Sans Mono,10,-1,5,50,0,0,0,0,0
 dummy=prevent-empty-group
 
 [Normal]

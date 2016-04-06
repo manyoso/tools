@@ -11,7 +11,4 @@ register_qt4_printers (None)
 from kde4 import register_kde4_printers
 register_kde4_printers (None)
 
-import webkit
-import gdb_chrome
-
 end

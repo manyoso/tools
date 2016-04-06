@@ -32,6 +32,174 @@ Indentation Mode=normal
 Mode=
 URL=
 
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Indentation Mode=python
+Mode=Python
+URL=file:///home/atreat/dev/cfpsdk/build.py
+
+[Document 10]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
+URL=file:///home/atreat/dev/perforce/prod/cfpsdk/node/src/CFPSdk.cpp
+
+[Document 11]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=CMake
+Indentation Mode=normal
+Mode=CMake
+URL=file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/bstream/CMakeLists.txt
+
+[Document 12]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=CMake
+Indentation Mode=normal
+Mode=CMake
+URL=file:///home/atreat/dev/cfpsdk/CMakeLists.txt
+
+[Document 13]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=CMake
+Indentation Mode=normal
+Mode=CMake
+URL=file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/shared/CMakeLists.txt
+
+[Document 14]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=CMake
+Indentation Mode=normal
+Mode=CMake
+URL=file:///home/atreat/dev/cfpsdk/src/nativesdk/shared/CMakeLists.txt
+
+[Document 15]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=
+
+[Document 16]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=CMake
+Indentation Mode=normal
+Mode=CMake
+URL=file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/contrib/quicklz-1.5.0/CMakeLists.txt
+
+[Document 17]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/atreat/dev/perforce/prod/shared/out
+
+[Document 18]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Makefile
+Indentation Mode=normal
+Mode=Makefile
+URL=file:///home/atreat/dev/perforce/prod/shared/util/Makefile
+
+[Document 19]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C
+Indentation Mode=cstyle
+Mode=C
+URL=file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/shared/tfs_replay.c
+
+[Document 2]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
+URL=file:///home/atreat/dev/cfpsdk/src/nativesdk/sdk/cfp_sdk.h
+
+[Document 20]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/atreat/Documents/tervela/useful_info
+
+[Document 21]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=XML
+Indentation Mode=xml
+Mode=XML
+URL=file:///usr/share/kde4/apps/katepart/syntax/cs.xml
+
+[Document 3]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
+URL=file:///home/atreat/dev/cfpsdk/src/nativesdk/shared/tvaErrors.h
+
+[Document 4]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C
+Indentation Mode=cstyle
+Mode=C
+URL=file:///home/atreat/dev/cfpsdk/src/nativesdk/sdk/cfp_sdk.c
+
+[Document 5]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=CMake
+Indentation Mode=normal
+Mode=CMake
+URL=file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/tvautils/CMakeLists.txt
+
+[Document 6]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=CMake
+Indentation Mode=normal
+Mode=CMake
+URL=file:///home/atreat/dev/cfpsdk/src/CMakeLists.txt
+
+[Document 7]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=CMake
+Indentation Mode=normal
+Mode=CMake
+URL=file:///home/atreat/dev/cfpsdk/src/hellocfp/CMakeLists.txt
+
+[Document 8]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=CMake
+Indentation Mode=normal
+Mode=CMake
+URL=file:///home/atreat/dev/cfpsdk/src/nativesdk/sdk/CMakeLists.txt
+
+[Document 9]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=CMake
+Indentation Mode=normal
+Mode=CMake
+URL=file:///home/atreat/dev/cfpsdk/src/nativesdk/CMakeLists.txt
+
 [Favorite Profiles]
 Favorites=
 
@@ -50,7 +218,7 @@ View Shade=51,204,255
 [General]
 Days Meta Infos=30
 First Start=false
-Last Session=
+Last Session=csharp.katesession
 Modified Notification=true
 Restore Documents=false
 Restore Projects=false
@@ -59,6 +227,7 @@ Save Meta Infos=false
 Session Exit=save
 Show Console=false
 Show Full Path in Title=true
+Show Menu Bar=true
 Show Status Bar=true
 ShowAlternativeShortcutConfig=true
 Startup Session=new
@@ -80,12 +249,16 @@ Automatic Preview=true
 Autoplay sounds=true
 Height 1050=614
 Height 1200=565
+Height 1440=685
 Height 900=445
-Recent Files[$e]=$HOME/Public/overflow_optimization.html,$HOME/dev/chromium2/src/cc/layers/layer_impl.h,$HOME/dev/chromium2/src/cc/layers/layer.cc,$HOME/dev/chromium2/src/cc/layers/layer.h,$HOME/dev/chromium2/src/cc/trees/layer_tree_settings.h,$HOME/dev/chromium2/src/content/shell/browser/shell.cc,$HOME/dev/chromium2/src/content/shell/browser/shell.h,$HOME/dev/chromium2/src/ui/compositor/compositor.cc,$HOME/dev/chromium2/src/cc/trees/layer_tree_host.h,$HOME/dev/chromium2/src/cc/trees/layer_tree_host.cc,$HOME/dev/chromium2/src/cc/trees/layer_tree_host_common.cc,$HOME/dev/chromium2/src/cc/trees/layer_tree_host_common.h,$HOME/dev/chromium2/src/cc/layers/contents_scaling_layer.cc,$HOME/dev/chromium2/src/cc/layers/contents_scaling_layer_unittest.cc,$HOME/dev/chromium2/src/cc/layers/contents_scaling_layer.h,$HOME/dev/chromium2/src/cc/layers/tiled_layer.h
+Recent Files[$e]=$HOME/pyc_files.txt,$HOME/dev/cfpsdk/src/csharpsdk/CMakeLists.txt,$HOME/dev/cfpsdk/src/CMakeLists.txt,$HOME/dev/cfpsdk/CMakeSharp/Modules/CMakeTestCSharpCompiler.cmake,$HOME/dev/cfpsdk/CMakeSharp/Modules/CMakeDetermineCSharpCompiler.cmake,$HOME/dev/cfpsdk/CMakeSharp/Modules/CMakeCSharpInformation.cmake,$HOME/dev/cfpsdk/CMakeSharp/Modules/CMakeCSharpCompiler.cmake.in,$HOME/dev/cfpsdk/CMakeSharp/Modules/FindMono.cmake,$HOME/dev/cfpsdk/src/nativesdk/sdk/CMakeLists.txt,$HOME/dev/cfpsdk/src/nativesdk/shared/CMakeLists.txt,$HOME/dev/cfpsdk/src/nativesdk/sdk/src/sdk.c,$HOME/dev/cfpsdk/src/csharpsdk/cfpsdk.cs,$HOME/dev/cfpsdk/src/nativesdk/tfs/shared/tfs_replay.c,$HOME/dev/cfpsdk/src/nativesdk/tfs/contrib/quicklz-1.5.0/CMakeLists.txt,$HOME/Documents/tervela/useful_info
+Recent URLs[$e]=$HOME/dev/cfpsdk/CMakeSharp/Modules/,$HOME/dev/cfpsdk/src/nativesdk/sdk/,$HOME/dev/cfpsdk/src/nativesdk/,$HOME/dev/cfpsdk/src/csharpsdk/,$HOME/git-fusion/,$HOME/git-fusion/.git-fusion/users/git-fusion-user/keys/
 Width 1400=898
 Width 1440=1015
 Width 1600=800
+Width 1680=816
 Width 1920=960
+Width 2560=1280
 listViewIconSize=0
 
 [KFileDialog Speedbar]
@@ -141,12 +314,12 @@ KTextEditor Plugin ktexteditor_isearch=false
 KTextEditor Plugin ktexteditor_kdatatool=false
 KTextEditor Plugin ktexteditor_kttsd=false
 Maximal Loaded Blocks=16
-Newline At EOF=false
+Newline At EOF=true
 On-The-Fly Spellcheck=false
 PageUp/PageDown Moves Cursor=false
 ProberType for Encoding Autodetection=0
-Remove Spaces=0
-ReplaceTabsDyn=false
+Remove Spaces=2
+ReplaceTabsDyn=true
 Script for Encoding Autodetection=0
 Search Dir Config Depth=-1
 Show Spaces=true
@@ -166,7 +339,7 @@ katebacktracebrowserplugin=false
 katebuildplugin=false
 katecloseexceptplugin=false
 katecppsymbolviewerplugin=false
-katectagsplugin=false
+katectagsplugin=true
 kateexternaltoolsplugin=false
 katefilebrowserplugin=false
 katefiletemplates=false
@@ -185,6 +358,7 @@ katepateplugin=false
 kateprojectplugin=false
 katepybrowseplugin=false
 katequickdocumentswitcherplugin=false
+katereplicodeplugin=false
 katesearchplugin=false
 katesnippetsplugin=false
 katesymbolviewerplugin=false
@@ -262,23 +436,27 @@ Default Mark Type=1
 Dynamic Word Wrap=true
 Dynamic Word Wrap Align Indent=80
 Dynamic Word Wrap Indicators=1
+Fold First Line=false
 Folding Bar=false
 Icon Bar=false
+Keyword Completion=true
 Line Numbers=true
 Persistent Selection=false
-Replacement Text History=,RenderObject*,virtual void doSomethingNonRecursive(QDebug &dbg\\, const Order& order),nextInPreOrder(),Baz,Bar,Foo,","\\\\n";,nextInPreOrder,.cpp,QString,firstChild();,RenderTree,next,previous,current,status=stable\\, force=enable,status=stable\\, force=disable,m_plugin,',npos,string_to_measure::npos,MeasuredStringStats::, const {},) {},measured_string&,(,measured_string,string_to_measure,)  {}, typedef String::,d_,mv ./,Widget,widget,kate ,MaxPartialTextureUpdates(),sform,SFORM,InstCombineAndOrXUtils,MemCpyOptPass,#include "../llvm/lib/CodeGen/,X86CodeEmitterUtils,h3,m_parserAction->getObject(),kate,$(I),.s ,.s,-S -o,-s -o,git add ,perl -i -pe 's/\\\\\\\\/\\\\//g if m/^#include/i' ,perl -i -pe 's/\\\\\\\\/\\\\//g if m/^#include/i',LcdDriverStatePtr,platformLayer\\\\(\\\\),platformLayer(),OpenVG,platformLayer,QWebSettings::pluginDatabase(),ASSERT,webkitGenerateCommitMessage,_PRIMARY_HEADER,rm ,$parseonly,parse-only,item,#ifndef SAVE_SPACE,m_slab16,qtGlyphSubstitutions->insert(,\\, 0x200c);,0x200c,0x20,qtGlyphSubstitutions->,node->title(),$$ANTLR_DIR/Asm.g.i,RenderThemeCrossPlatform,_iris
+Replacement Text History=rm ,,amlib/,amlib,oct_,\\,,TermRef,TypeRef,<TermRef>,TermCtor,TermCtorExpr,Declarations,m_declarations,declarations,funcInfoForExpr,m_funcHash,func,toFunc,FuncInfo,funcName,Func,declarations_h,ecmascript,QString ,capture_,Combinator,RParen,LParen,hof,zot,s_instance,I,Color::instance()->pop(),Color::instance()->push(Color::PURPLE),Color::instance()->push(Color::GREEN),Color::instance()->push(Color::RED),PURPLE,RESET,SubEval eval;,SubEval subEval,m_subEval,Verbose::instance()->stream(),Verbose,s_subeval,"\\\\t",QStringLiteral("\\\\t"),QStringLiteral(),argument,k,s,\\\\, -> ,remainder,self,p,r,.,λ,pathModule,GoogleDriveWriteStream,(new,(,_instance;,TermPtr,zero(),s(),k(),ZotJS,TermPtr(new K),;,::apply(TermPtr,TermPtr apply(TermPtr,z1,Z1,z1_,str,<<,node->toString(),node,buffer,{Object},{Function},{String},parentId_,self.file_,parentID_,file,CMISWriteStream,writeStandard_,writeResumable_,finishMaybe_,error_,uploadFileStandard_,uploadBuffer_,updateBuffer_,updateMetadata_,confirmMD5_,uploadNext_,uploadPending_,CMIS
 Scroll Bar Marks=false
 Scroll Bar Mini Map=false
 Scroll Past End=false
 Search Config Flags=0
-Search Pattern History=256,d = other.d,operator=,clone,delete,bar,@_ZdlPv,IsImplSidePaintingEnabled,impl_side,impl_side_painting,settings_,impl_side_paint,::decode,destroy(),RenderView,ASSERT,view,::destroy,willBeDestroyed,destroy,addRenderer,addRendererWithOffscreenAnimations,m_node,DOMWindowBingSearchEngineClientImpl,provideDOMWindowBingSearchEngineTo,updateLayerTreeViewport,didScrollRect,InvalidationCallback,s_numberOfIn,visible,WebLayer,layer,Anima,TileManagerClient,LayerTreeHostClient,_layer,layer_,is_load,is_loading,::Update,size,fprintf,postPro,didStart,1416,SetNeedsDisplayRect,TRACK_REPAINTS,s_numberOfInvali,s_numberOfPaints,paintsEntireContents,repaintContentRectangle,repaintUsingContainer,m_trackedRepaintRects,forceCompos,setForceCompositingMode,setForceComp,m_isAcceleratedCompositingActive,invalidateRect,IsForceCompositingModeEnabled,m_next,suspend,_PrepareAndRunPage,StartBrowserIfNeeded,StartProfiling,CollectData,m_renderer,initializeLayoutState,currentStatePusherRenderBox,FrameViewLayoutStateMaintainer,pushLayoutState,disableLayoutStat,m_frameView,pushLayoutStateForCurrentFlowThread,FrameView,popLayoutState,LayoutStateDisabl,using,LayoutState,LayoutStateMain,m_columnInfo,testRunning,pushLayoutState(,shouldDisable,shouldDisableLayoutStateForSubtree,m_layoutStateDisableCount,disableLayoutState,inline,0x38cb75620450,layoutPositionedO,layoutPosit,->layout(,->layout,layoutBlockChild,m_verticalScrollbar =,m_verticalScrollbar,scrollbarExistenceDidChange,needsLayout,m_contentsSize =,contents,statePusher
+Search Pattern History=Commentar 1,Normal,String,******************,tostr,str,        ,tfsReplayResume,tfs_replay_new,util_cl,tvaApplianceService,tvaSyncUnix,tfs_client.c,client/capi/comm/dp,IOBCT_CHANNEL,${CMAKE_SOURCE_DIR}/src/,${CMAKE_SOURCE_DIR}/src/nativesdk/,./,.,shared/amlib,ma/host,host,Win32,topic,file_watch,tfs_s3fs,linux,win,tfs_file_watch,libjansson.,PROJECT_BINARY_DIR,OUTPUT,libquicklz.a,.a,lib*,lib*.a,*\\\\.a,lib*\\\\.a,lib.a,lib*\\\\\\\\.a,control,g_sdk,init,DEFINES,DEFINE, ${CSHARP_OPTIONS},FLAGS,DEBUG,CMAKE_CXX_FLAGS,this.,blk_offset,Initialize,cfp_sdk_t,TVA_STATUS,LINK_EX,configure_file,JANSSON_BUILD_DOCS,./src/,bstream,libbstream.a,libtvautils.so,-DTVAUTILS,-D,libtvautils,quicklz,cm_main,dpc,cm_client,JSON_INTEGER_FORMAT,json_int_t,jansson,missing,channels,tvachrel_initialize_context,LINUX,tvaClientAPIIn,\\, ,item.name,self.client.post,finish,retru,dev/,.p4,date =,date,deleteFromPending,complete,getFileList,            for (var filename in result) {,listFilesAs,Obtaining file lists,ENOENT,getValidators,processFileOrFolder,listFilesAsync,statFileAsync,_findItem,ls =,stop,addItem
 Search/Replace Flags=141
+Show Scrollbars=0
 Smart Copy Cut=false
 Text To Search Mode=2
 Vi Input Mode=false
 Vi Input Mode Emulate Command Bar=false
 Vi Input Mode Hide Status Bar=false
 Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
 Word Completion=true
 Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
@@ -325,31 +503,42 @@ TerminalList=Terminal,GDB,Android
 [MainWindow]
 Height 1050=1051
 Height 1200=1201
+Height 1215=1216
+Height 1440=1441
 Height 768=689
-Height 900=810
-State=AAAA/wAAAAD9AAAAAAAAB4AAAARBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
+Height 900=901
+State=AAAA/wAAAAD9AAAAAAAABPwAAAVGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1024=1016
 Width 1400=1401
 Width 1440=1440
-Width 1600=1600
+Width 1600=1276
+Width 1680=1681
 Width 1920=1921
+Width 2560=1276
+Width 3595=3596
+Width 4160=1276
 
 [MainWindow][Toolbar mainToolBar]
 Index=0
 
 [MainWindow0]
 Height 1200=1201
+Height 1440=1441
 Height 900=901
-Kate-MDI-H-Splitter=270,1619,200
-Kate-MDI-Sidebar-0-Splitter=1089
-Kate-MDI-Sidebar-3-Splitter=1619,0,0
+Kate-MDI-H-Splitter=331,909,200
+Kate-MDI-Sidebar-0-Splitter=1350
+Kate-MDI-Sidebar-3-Splitter=909,0
 Kate-MDI-Sidebar-Visible=true
 Kate-MDI-ToolView-kate_plugin_katesearch-Sidebar-Position=1
 Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Persistent=false
 Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Position=3
 Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Sidebar-Position=3
 Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katectagsplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katectagsplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katectagsplugin-Sidebar-Position=1
+Kate-MDI-ToolView-kate_private_plugin_katectagsplugin-Visible=false
 Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=true
 Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Persistent=false
 Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Position=3
@@ -384,23 +573,928 @@ Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_two-Position=3
 Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_two-Sidebar-Position=1
 Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_two-Visible=true
 Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=2
-Kate-MDI-V-Splitter=150,680,380
-State=AAAA/wAAAAD9AAAAAAAAB4AAAARBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
+Kate-MDI-V-Splitter=150,894,422
+State=AAAA/wAAAAD9AAAAAAAABPwAAAVGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1600=1601
+Width 1600=1276
 Width 1920=1921
+Width 2560=1276
 
 [MainWindow0 Settings]
 Height 1200=1201
+Height 1440=1441
 Height 900=901
-State=AAAA/wAAAAD9AAAAAAAAB4AAAARBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABPwAAAVGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1600=1601
+Width 1600=1276
 Width 1920=1921
-WindowState=2
+Width 2560=1276
+WindowState=0
 
 [MainWindow0-Splitter 0]
-Sizes=1619
+Sizes=909
+
+[MainWindow0-ViewSpace 0]
+Active View=
+Count=1
+View 0=file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/contrib/quicklz-1.5.0/CMakeLists.txt
+View 1=file:///home/atreat/dev/cfpsdk/src/nativesdk/shared/tvaErrors.h
+View 10=file:///home/atreat/dev/cfpsdk/src/nativesdk/CMakeLists.txt
+View 11=file:///home/atreat/dev/cfpsdk/src/nativesdk/sdk/CMakeLists.txt
+View 12=file:///home/atreat/dev/cfpsdk/src/nativesdk/shared/CMakeLists.txt
+View 13=file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/bstream/CMakeLists.txt
+View 14=file:///home/atreat/dev/perforce/prod/cfpsdk/node/src/CFPSdk.cpp
+View 15=file:///home/atreat/dev/cfpsdk/src/nativesdk/sdk/cfp_sdk.h
+View 16=file:///home/atreat/dev/cfpsdk/src/nativesdk/sdk/cfp_sdk.c
+View 17=file:///home/atreat/dev/perforce/prod/shared/out
+View 18=file:///home/atreat/dev/nebula/prod/cfpsdk/tasks/box2/lib/files.js
+View 19=file:///home/atreat/dev/perforce/prod/shared/util/Makefile
+View 2=file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/tvautils/CMakeLists.txt
+View 20=file:///home/atreat/Documents/tervela/useful_info
+View 21=file:///usr/share/kde4/apps/katepart/syntax/cs.xml
+View 3=file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/shared/CMakeLists.txt
+View 4=file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/shared/tfs_replay.c
+View 5=file:///home/atreat/dev/cfpsdk/build.py
+View 6=file:///home/atreat/dev/cfpsdk/src/csharpsdk/CMakeLists.txt
+View 7=file:///home/atreat/dev/cfpsdk/src/CMakeLists.txt
+View 8=file:///home/atreat/dev/cfpsdk/CMakeLists.txt
+View 9=file:///home/atreat/dev/cfpsdk/src/hellocfp/CMakeLists.txt
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/Documents/response]
+CursorColumn=0
+CursorLine=113
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/Documents/tervela/useful_info]
+CursorColumn=33
+CursorLine=31
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/Downloads/task-2016-02-17-15-45-52.log]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/CMakeLists.txt]
+CursorColumn=21
+CursorLine=14
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/build.py]
+CursorColumn=0
+CursorLine=31
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/CMakeLists.txt]
+CursorColumn=0
+CursorLine=1
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/csharpsdk/CMakeLists.txt]
+CursorColumn=30
+CursorLine=7
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/csharpsdk/cfpsdk.cs]
+CursorColumn=0
+CursorLine=3
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/hellocfp/CMakeLists.txt]
+CursorColumn=0
+CursorLine=37
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/nativesdk/CMakeLists.txt]
+CursorColumn=33
+CursorLine=23
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/nativesdk/sdk/CMakeLists.txt]
+CursorColumn=139
+CursorLine=27
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/nativesdk/sdk/cfp_sdk.c]
+CursorColumn=0
+CursorLine=131
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/nativesdk/sdk/cfp_sdk.h]
+CursorColumn=31
+CursorLine=190
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/nativesdk/shared/CMakeLists.txt]
+CursorColumn=0
+CursorLine=194
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/nativesdk/shared/tvaErrors.h]
+CursorColumn=39
+CursorLine=29
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/bstream/CMakeLists.txt]
+CursorColumn=0
+CursorLine=28
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/contrib/quicklz-1.5.0/CMakeLists.txt]
+CursorColumn=0
+CursorLine=4
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/shared/CMakeLists.txt]
+CursorColumn=11
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/shared/tfs_replay.c]
+CursorColumn=0
+CursorLine=282
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/tvautils/CMakeLists.txt]
+CursorColumn=13
+CursorLine=13
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/localpop/opt/cfp/tasks/cfp2_dropbox/src/dropbox.js]
+CursorColumn=19
+CursorLine=286
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/mob/mob.py]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/mob/mobfiles/bar.mobproject]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/mob/mobfiles/baz.mobproject]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/mob/mobfiles/foo.mobproject]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/mob/mobfiles/libbar.mobinstall]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/mob/mobfiles/libbaz.mobinstall]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/mob/mobfiles/libfoo.mobinstall]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/mob/mobfiles/test.mobdevice]
+CursorColumn=0
+CursorLine=6
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/bin/cfptest-ls]
+CursorColumn=19
+CursorLine=78
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/lib/CFP.js]
+CursorColumn=13
+CursorLine=169
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/lib/core/context.js]
+CursorColumn=45
+CursorLine=194
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/lib/core/probe.js]
+CursorColumn=3
+CursorLine=117
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/lib/files/api.js]
+CursorColumn=0
+CursorLine=406
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/lib/files/cdc.js]
+CursorColumn=0
+CursorLine=2381
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/lib/files/context.js]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=.,0,0,[,0,0,],-1,-1
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/lib/files/probe.js]
+CursorColumn=51
+CursorLine=51
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/lib/utils/chunkedstream.js]
+CursorColumn=40
+CursorLine=28
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/lib/utils/errors.js]
+CursorColumn=5
+CursorLine=26
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/lib/utils/logger.js]
+CursorColumn=22
+CursorLine=144
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/lib/utils/misc.js]
+CursorColumn=11
+CursorLine=47
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/lib/utils/rest.js]
+CursorColumn=3
+CursorLine=624
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/out/cfp/2.0.0/files_context.js.html]
+CursorColumn=57
+CursorLine=610
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/src/ByteStream.cpp]
+CursorColumn=0
+CursorLine=187
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/src/ByteStream.h]
+CursorColumn=31
+CursorLine=276
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/src/Request.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/src/Request.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/src/Response.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/src/Response.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/node/test/contextxr.js]
+CursorColumn=29
+CursorLine=1337
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/tasks/box/specs/box_admin.json]
+CursorColumn=104
+CursorLine=34
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/tasks/box/specs/box_shared.inc.json]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/tasks/box2/box.js]
+CursorColumn=3
+CursorLine=864
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/tasks/box2/lib/client.js]
+CursorColumn=19
+CursorLine=149
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/tasks/box2/lib/files.js]
+CursorColumn=3
+CursorLine=289
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/tasks/box2/lib/fs.js]
+CursorColumn=26
+CursorLine=783
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/tasks/box2/lib/writestream.js]
+CursorColumn=0
+CursorLine=76
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/tasks/cmis/cmis.js]
+CursorColumn=68
+CursorLine=215
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/prod/cfpsdk/tasks/dropbox/dropbox.js]
+CursorColumn=33
+CursorLine=1048
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/scripts/commands/cfp_build.py]
+CursorColumn=22
+CursorLine=48
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/nebula/scripts/commands/cfp_clean.py]
+CursorColumn=0
+CursorLine=16
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/perforce/prod/cfpsdk/node/src/CFPSdk.cpp]
+CursorColumn=3
+CursorLine=135
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/perforce/prod/cfpsdk/tasks/egnyte/egnyte.js]
+CursorColumn=2
+CursorLine=50
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/perforce/prod/cfpsdk/tasks/egnyte/lib/client.js]
+CursorColumn=2
+CursorLine=32
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/perforce/prod/cfpsdk/tasks/egnyte/lib/fs.js]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/perforce/prod/cfpsdk/tasks/egnyte/lib/index.js]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/perforce/prod/cfpsdk/tasks/egnyte/lib/writestream.js]
+CursorColumn=55
+CursorLine=100
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/perforce/prod/cfpsdk/tasks/egnyte/specs/egnyte.json]
+CursorColumn=55
+CursorLine=53
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/perforce/prod/shared/out]
+CursorColumn=247
+CursorLine=56
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/perforce/prod/shared/util/Makefile]
+CursorColumn=19
+CursorLine=36
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/apple/llvm/include/llvm/Transforms/Utils/SimplifyLibCalls.h]
+CursorColumn=19
+CursorLine=88
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/apple/llvm/lib/CodeGen/CodeGenPrepare.cpp]
+CursorColumn=29
+CursorLine=113
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/apple/llvm/lib/Transforms/Utils/SimplifyLibCalls.cpp]
+CursorColumn=40
+CursorLine=1860
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/cassidy/ilovecheesecake.cpp]
+CursorColumn=31
+CursorLine=10
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/planck/build.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/planck/gdb.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/planck/planck.pri]
+CursorColumn=6
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/planck/planck.pro]
+CursorColumn=0
+CursorLine=3
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/planck/run.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/planck/runtests.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/planck/src/main.cpp]
+CursorColumn=0
+CursorLine=14
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/planck/src/src.pri]
+CursorColumn=0
+CursorLine=8
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/planck/src/src.pro]
+CursorColumn=0
+CursorLine=12
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/planck/src/units.h]
+CursorColumn=0
+CursorLine=9
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/LICENSE]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/README.md]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/build.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/gdb.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/graph.dot]
+CursorColumn=0
+CursorLine=27
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/propagator.pri]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/propagator.pro]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/run.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/runtests.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/src/bt.cpp]
+CursorColumn=27
+CursorLine=22
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/src/bt.h]
+CursorColumn=78
+CursorLine=58
+JumpList=
+ViMarks=.,58,77,[,58,65,],58,77
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/src/cell.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/src/cell.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/src/data.cpp]
+CursorColumn=0
+CursorLine=159
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/src/data.h]
+CursorColumn=0
+CursorLine=54
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/src/main.cpp]
+CursorColumn=26
+CursorLine=36
+JumpList=
+ViMarks=.,36,25,[,36,21,],36,25
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/src/propagator.cpp]
+CursorColumn=0
+CursorLine=28
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/src/propagator.h]
+CursorColumn=0
+CursorLine=28
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/src/src.pri]
+CursorColumn=0
+CursorLine=9
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/src/src.pro]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/src/tms.cpp]
+CursorColumn=0
+CursorLine=10
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/propagator/src/tms.h]
+CursorColumn=19
+CursorLine=20
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/LICENSE]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/README.md]
+CursorColumn=15
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/build.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/examples/reverser.lambda]
+CursorColumn=13
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/examples/reverser.scheme]
+CursorColumn=69
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/examples/reverser.unlambda]
+CursorColumn=24
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/examples/reverser.zot]
+CursorColumn=175
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/gdb.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/run.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/runtests.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/sforms.pri]
+CursorColumn=0
+CursorLine=27
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/sforms.pro]
+CursorColumn=0
+CursorLine=3
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/bt.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/bt.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/db.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/db.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/lambda.cpp]
+CursorColumn=0
+CursorLine=223
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/lambda.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/main.cpp]
+CursorColumn=0
+CursorLine=34
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/main_sforms.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/runner.cpp]
+CursorColumn=27
+CursorLine=153
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/runner.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/src.pri]
+CursorColumn=0
+CursorLine=7
+JumpList=
+ViMarks=.,3,10,[,3,10,],3,10
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/src.pro]
+CursorColumn=20
+CursorLine=11
+JumpList=
+ViMarks=.,11,19,[,11,14,],11,19
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/unlambda.cpp]
+CursorColumn=1
+CursorLine=12
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/unlambda.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/zot.cpp]
+CursorColumn=0
+CursorLine=91
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/sforms/src/zot.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/unv/build.sh]
+CursorColumn=18
+CursorLine=23
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/unv/src/codegen.cpp]
+CursorColumn=20
+CursorLine=37
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/unv/src/codegen.h]
+CursorColumn=19
+CursorLine=6
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/unv/unv.pri]
+CursorColumn=20
+CursorLine=16
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/personal/unv/unv.pro]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/tervela/dev/nebula/prod/cfpsdk/tasks/fsync/fsync.js]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/tervela/dev/nebula/prod/cfpsdk/tasks/fsync/vfs.js]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/dev/tools/bash_aliases.sh]
+CursorColumn=4
+CursorLine=65
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/local/libexec/git-core/git-p4s]
+CursorColumn=17
+CursorLine=370
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/task-2015-11-04-11-23-00.log]
+CursorColumn=129
+CursorLine=1856
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/atreat/task-2015-11-04-16-28-12.log]
+CursorColumn=83
+CursorLine=39920
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///usr/share/kde4/apps/katepart/syntax/cs.xml]
+CursorColumn=25
+CursorLine=118
+JumpList=
+ViMarks=
 
 [Notification Messages]
 DoNotShowAgainContinueSearchDialog=true
@@ -428,6 +1522,11 @@ NumTargets=1
 
 [Plugin:katecloseexceptplugin:menu]
 ShowConfirmation=true
+
+[Plugin:katectagsplugin:MainWindow:0:ctags-plugin]
+SessionDatabase=/home/atreat/.kde/share/apps/kate/plugins/katectags/session_db_20151013_150540
+SessionNumTargets=0
+TagsGenCMD=ctags -R --c++-types=+px --extra=+q --excmd=pattern --exclude=Makefile --exclude=.
 
 [Plugin:katefindinfilesplugin::find-in-files]
 CaseSensitive=false
@@ -463,26 +1562,26 @@ ExpandTree=false
 ViewTypes=false
 
 [Recent Files]
-File1[$e]=$HOME/dev/clang_tests/Makefile
+File1[$e]=$HOME/dev/perforce/prod/tfs/shared/tfs_replay.c
 File10[$d]
-File2[$e]=$HOME/dev/clang_tests/threadsafe.cpp
-File3[$e]=$HOME/Downloads/gerrit_stats.py
-File4[$e]=$HOME/dev/chromium2/src/cc/layers/picture_layer_impl.h
-File5[$e]=$HOME/dev/chromium2/src/cc/resources/picture_layer_tiling_set_unittest.cc
-File6[$e]=$HOME/dev/chromium2/src/cc/resources/picture_layer_tiling.h
-File7[$e]=$HOME/dev/chromium2/src/cc/test/fake_picture_layer_tiling_client.h
-File8[$e]=$HOME/dev/chromium2/src/cc/trees/layer_tree_settings.cc
-File9[$e]=$HOME/dev/chromium2/src/third_party/WebKit/Source/web/WebSettingsImpl.cpp
-Name1[$e]=Makefile
+File2[$e]=$HOME/dev/cfpsdk/src/nativesdk/tfs/shared/CMakeLists.txt
+File3[$e]=$HOME/dev/cfpsdk/src/nativesdk/tfs/shared/tfs_replay.c
+File4[$e]=$HOME/dev/cfpsdk/src/nativesdk/tfs/bstream/CMakeLists.txt
+File5[$e]=$HOME/dev/cfpsdk/src/nativesdk/sdk/cfp_sdk.c
+File6[$e]=$HOME/Documents/tervela/useful_info
+File7[$e]=$HOME/dev/cfpsdk/src/csharpsdk/cfpsdk.cs
+File8[$e]=/usr/share/kde4/apps/katepart/syntax/cs.xml
+File9[$e]=/usr/share/applications/kde4/kate.desktop
+Name1[$e]=tfs_replay.c
 Name10[$d]
-Name2[$e]=threadsafe.cpp
-Name3[$e]=gerrit_stats.py
-Name4[$e]=picture_layer_impl.h
-Name5[$e]=picture_layer_tiling_set_unittest.cc
-Name6[$e]=picture_layer_tiling.h
-Name7[$e]=fake_picture_layer_tiling_client.h
-Name8[$e]=layer_tree_settings.cc
-Name9[$e]=WebSettingsImpl.cpp
+Name2[$e]=CMakeLists.txt
+Name3[$e]=tfs_replay.c
+Name4[$e]=CMakeLists.txt
+Name5[$e]=cfp_sdk.c
+Name6[$e]=useful_info
+Name7[$e]=cfpsdk.cs
+Name8[$e]=cs.xml
+Name9[$e]=kate.desktop
 
 [Shortcut Schemes]
 Current Scheme=Default
