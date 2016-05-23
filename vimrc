@@ -8,7 +8,7 @@ set background=dark
 set nu
 
 "Tab stop"
-set ts=4
+set ts=2
 
 "Always use spaces instead of tabs"
 set expandtab
@@ -56,4 +56,3 @@ autocmd BufWinLeave * call clearmatches()
 
 " Toggle the window manager plugin at startup to visible
 autocmd GUIEnter * WMToggle "call ToggleWindowsManager()
-"autocmd VIMEnter * WMToggle "call ToggleWindowsManager()

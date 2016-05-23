@@ -24,7 +24,7 @@ Width 1920=359
 CurrentPalette=Forty Colors
 
 [Desktop Entry]
-DefaultProfile=LinuxMint.profile
+DefaultProfile=Shell.profile
 
 [Document 0]
 Highlighting=None
@@ -216,10 +216,12 @@ Sort Type=1
 View Shade=51,204,255
 
 [General]
+Config Revision=10
 Days Meta Infos=30
 First Start=false
-Last Session=csharp.katesession
+Last Session=
 Modified Notification=true
+Recent File List Entry Count=10
 Restore Documents=false
 Restore Projects=false
 Restore Window Configuration=true
@@ -229,6 +231,7 @@ Show Console=false
 Show Full Path in Title=true
 Show Menu Bar=true
 Show Status Bar=true
+Show Tab Bar=false
 ShowAlternativeShortcutConfig=true
 Startup Session=new
 Sync Konsole=false
@@ -250,9 +253,11 @@ Autoplay sounds=true
 Height 1050=614
 Height 1200=565
 Height 1440=685
+Height 800=496
 Height 900=445
-Recent Files[$e]=$HOME/pyc_files.txt,$HOME/dev/cfpsdk/src/csharpsdk/CMakeLists.txt,$HOME/dev/cfpsdk/src/CMakeLists.txt,$HOME/dev/cfpsdk/CMakeSharp/Modules/CMakeTestCSharpCompiler.cmake,$HOME/dev/cfpsdk/CMakeSharp/Modules/CMakeDetermineCSharpCompiler.cmake,$HOME/dev/cfpsdk/CMakeSharp/Modules/CMakeCSharpInformation.cmake,$HOME/dev/cfpsdk/CMakeSharp/Modules/CMakeCSharpCompiler.cmake.in,$HOME/dev/cfpsdk/CMakeSharp/Modules/FindMono.cmake,$HOME/dev/cfpsdk/src/nativesdk/sdk/CMakeLists.txt,$HOME/dev/cfpsdk/src/nativesdk/shared/CMakeLists.txt,$HOME/dev/cfpsdk/src/nativesdk/sdk/src/sdk.c,$HOME/dev/cfpsdk/src/csharpsdk/cfpsdk.cs,$HOME/dev/cfpsdk/src/nativesdk/tfs/shared/tfs_replay.c,$HOME/dev/cfpsdk/src/nativesdk/tfs/contrib/quicklz-1.5.0/CMakeLists.txt,$HOME/Documents/tervela/useful_info
-Recent URLs[$e]=$HOME/dev/cfpsdk/CMakeSharp/Modules/,$HOME/dev/cfpsdk/src/nativesdk/sdk/,$HOME/dev/cfpsdk/src/nativesdk/,$HOME/dev/cfpsdk/src/csharpsdk/,$HOME/git-fusion/,$HOME/git-fusion/.git-fusion/users/git-fusion-user/keys/
+Recent Files[$e]=$HOME/dev/alpha/prod/shared/CMakeLists.txt,$HOME/dev/tools/kate_config/Adam.kateschema,$HOME/dev/tools/kate_config/Vim (dark).kateschema,$HOME/dev/tools/kate_config/adam_kateschemarc,$HOME/dev/tools/kate_config/kateschemarc,$HOME/dev/alpha/prod/tfs/tvautils/scripts/tfs_mkstats.py,$HOME/dev/alpha/prod/shared/amlib/amtypes/tvaAMRegResp.c,$HOME/dev/alpha/prod/shared/amlib/amtypes/tvaAMRateCtlReq.h,$HOME/dev/alpha/prod/tfs/shared/tfs_message.h,$HOME/dev/alpha/prod/tfs/tvautils/tfs_util.c,$HOME/dev/alpha/prod/tfs/shared/tfs_p2p.h,$HOME/dev/alpha/prod/cfpsdk/c/cfp_sdk.h,$HOME/dev/alpha/prod/cfpsdk/c/src/sdk.h,$HOME/dev/alpha/prod/shared/channels/tvaChannelAdp.c,$HOME/dev/alpha/prod/shared/util/tvaNet.h,$HOME/dev/alpha/prod/shared/channels/tvaChannelUdp.h
+Recent URLs[$e]=$HOME/dev/alpha/prod/tfs/tvautils/,$HOME/dev/alpha/prod/tfs/,$HOME/dev/alpha/prod/shared/amlib/amtypes/,$HOME/dev/alpha/prod/shared/,$HOME/dev/alpha/prod/tfs/tvautils/scripts/,$HOME/dev/tools/kate_config/,$HOME/dev/tools/kate_config/
+Width 1280=853
 Width 1400=898
 Width 1440=1015
 Width 1600=800
@@ -296,6 +301,9 @@ Printer=deskjet940c
 [KTEXTEDITOR:]
 DEVELOPER_INFO=NEVER TRY TO USE VALUES FROM THAT GROUP, THEY ARE SUBJECT TO CHANGES
 
+[KTextEditor::Search]
+Search History=Color Background
+
 [Kate Document Defaults]
 Allow End of Line Detection=true
 Allow Simple Mode=true
@@ -314,11 +322,11 @@ KTextEditor Plugin ktexteditor_isearch=false
 KTextEditor Plugin ktexteditor_kdatatool=false
 KTextEditor Plugin ktexteditor_kttsd=false
 Maximal Loaded Blocks=16
-Newline At EOF=true
+Newline At EOF=false
 On-The-Fly Spellcheck=false
 PageUp/PageDown Moves Cursor=false
 ProberType for Encoding Autodetection=0
-Remove Spaces=2
+Remove Spaces=0
 ReplaceTabsDyn=true
 Script for Encoding Autodetection=0
 Search Dir Config Depth=-1
@@ -442,12 +450,12 @@ Icon Bar=false
 Keyword Completion=true
 Line Numbers=true
 Persistent Selection=false
-Replacement Text History=rm ,,amlib/,amlib,oct_,\\,,TermRef,TypeRef,<TermRef>,TermCtor,TermCtorExpr,Declarations,m_declarations,declarations,funcInfoForExpr,m_funcHash,func,toFunc,FuncInfo,funcName,Func,declarations_h,ecmascript,QString ,capture_,Combinator,RParen,LParen,hof,zot,s_instance,I,Color::instance()->pop(),Color::instance()->push(Color::PURPLE),Color::instance()->push(Color::GREEN),Color::instance()->push(Color::RED),PURPLE,RESET,SubEval eval;,SubEval subEval,m_subEval,Verbose::instance()->stream(),Verbose,s_subeval,"\\\\t",QStringLiteral("\\\\t"),QStringLiteral(),argument,k,s,\\\\, -> ,remainder,self,p,r,.,λ,pathModule,GoogleDriveWriteStream,(new,(,_instance;,TermPtr,zero(),s(),k(),ZotJS,TermPtr(new K),;,::apply(TermPtr,TermPtr apply(TermPtr,z1,Z1,z1_,str,<<,node->toString(),node,buffer,{Object},{Function},{String},parentId_,self.file_,parentID_,file,CMISWriteStream,writeStandard_,writeResumable_,finishMaybe_,error_,uploadFileStandard_,uploadBuffer_,updateBuffer_,updateMetadata_,confirmMD5_,uploadNext_,uploadPending_,CMIS
+Replacement Text History=git add ,, ,rm ,amlib/,amlib,oct_,\\,,TermRef,TypeRef,<TermRef>,TermCtor,TermCtorExpr,Declarations,m_declarations,declarations,funcInfoForExpr,m_funcHash,func,toFunc,FuncInfo,funcName,Func,declarations_h,ecmascript,QString ,capture_,Combinator,RParen,LParen,hof,zot,s_instance,I,Color::instance()->pop(),Color::instance()->push(Color::PURPLE),Color::instance()->push(Color::GREEN),Color::instance()->push(Color::RED),PURPLE,RESET,SubEval eval;,SubEval subEval,m_subEval,Verbose::instance()->stream(),Verbose,s_subeval,"\\\\t",QStringLiteral("\\\\t"),QStringLiteral(),argument,k,s,\\\\, -> ,remainder,self,p,r,.,λ,pathModule,GoogleDriveWriteStream,(new,(,_instance;,TermPtr,zero(),s(),k(),ZotJS,TermPtr(new K),;,::apply(TermPtr,TermPtr apply(TermPtr,z1,Z1,z1_,str,<<,node->toString(),node,buffer,{Object},{Function},{String},parentId_,self.file_,parentID_,file,CMISWriteStream,writeStandard_,writeResumable_,finishMaybe_,error_,uploadFileStandard_,uploadBuffer_,updateBuffer_,updateMetadata_,confirmMD5_,uploadNext_
 Scroll Bar Marks=false
 Scroll Bar Mini Map=false
 Scroll Past End=false
 Search Config Flags=0
-Search Pattern History=Commentar 1,Normal,String,******************,tostr,str,        ,tfsReplayResume,tfs_replay_new,util_cl,tvaApplianceService,tvaSyncUnix,tfs_client.c,client/capi/comm/dp,IOBCT_CHANNEL,${CMAKE_SOURCE_DIR}/src/,${CMAKE_SOURCE_DIR}/src/nativesdk/,./,.,shared/amlib,ma/host,host,Win32,topic,file_watch,tfs_s3fs,linux,win,tfs_file_watch,libjansson.,PROJECT_BINARY_DIR,OUTPUT,libquicklz.a,.a,lib*,lib*.a,*\\\\.a,lib*\\\\.a,lib.a,lib*\\\\\\\\.a,control,g_sdk,init,DEFINES,DEFINE, ${CSHARP_OPTIONS},FLAGS,DEBUG,CMAKE_CXX_FLAGS,this.,blk_offset,Initialize,cfp_sdk_t,TVA_STATUS,LINK_EX,configure_file,JANSSON_BUILD_DOCS,./src/,bstream,libbstream.a,libtvautils.so,-DTVAUTILS,-D,libtvautils,quicklz,cm_main,dpc,cm_client,JSON_INTEGER_FORMAT,json_int_t,jansson,missing,channels,tvachrel_initialize_context,LINUX,tvaClientAPIIn,\\, ,item.name,self.client.post,finish,retru,dev/,.p4,date =,date,deleteFromPending,complete,getFileList,            for (var filename in result) {,listFilesAs,Obtaining file lists,ENOENT,getValidators,processFileOrFolder,listFilesAsync,statFileAsync,_findItem,ls =,stop,addItem
+Search Pattern History=t_bcb,f_bcb,NUM_PERCENTILES,EgnyteDate,fileChange,fileDel,SOURCE_MISSING,source-missing,libtfsshared.a,tfs_replay.c.o,tfs_replay,lib/include,tfs/lib/include,tfs_replay.o,tvaPEAPI.c,FPIC,libcfpsdk.so,        ,tfs_time,tvaStdInt.h,loadAdapterConfig,loadAdapter,.json,mkTaskConfig,loadContext,json,mkContext,_ctx =,_ctx,adapter,taskConfig.,_getTaskConfiguration,section,fsync,config,azure_storage_account,cfpcfg,Config,_createBlobService,Commentar 1,Normal,String,******************,tostr,str,tfsReplayResume,tfs_replay_new,util_cl,tvaApplianceService,tvaSyncUnix,tfs_client.c,client/capi/comm/dp,IOBCT_CHANNEL,${CMAKE_SOURCE_DIR}/src/,${CMAKE_SOURCE_DIR}/src/nativesdk/,./,.,shared/amlib,ma/host,host,Win32,topic,file_watch,tfs_s3fs,linux,win,tfs_file_watch,libjansson.,PROJECT_BINARY_DIR,OUTPUT,libquicklz.a,.a,lib*,lib*.a,*\\\\.a,lib*\\\\.a,lib.a,lib*\\\\\\\\.a,control,g_sdk,init,DEFINES,DEFINE, ${CSHARP_OPTIONS},FLAGS,DEBUG,CMAKE_CXX_FLAGS,this.,blk_offset,Initialize,cfp_sdk_t,TVA_STATUS,LINK_EX,configure_file,JANSSON_BUILD_DOCS,./src/,bstream,libbstream.a,libtvautils.so,-DTVAUTILS
 Search/Replace Flags=141
 Show Scrollbars=0
 Smart Copy Cut=false
@@ -504,31 +512,37 @@ TerminalList=Terminal,GDB,Android
 Height 1050=1051
 Height 1200=1201
 Height 1215=1216
-Height 1440=1441
+Height 1300=1301
+Height 1440=527
 Height 768=689
 Height 900=901
-State=AAAA/wAAAAD9AAAAAAAABPwAAAVGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAACgAAAAS3AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1024=1016
 Width 1400=1401
 Width 1440=1440
-Width 1600=1276
+Width 1600=1601
 Width 1680=1681
 Width 1920=1921
-Width 2560=1276
+Width 2500=2501
+Width 2560=1062
 Width 3595=3596
 Width 4160=1276
+Window-Maximized 1332x2560=true
+Window-Maximized 581x1133=true
+Window-Maximized 666x1280=true
+Window-Maximized 800x1280=true
 
 [MainWindow][Toolbar mainToolBar]
 Index=0
 
 [MainWindow0]
 Height 1200=1201
-Height 1440=1441
+Height 1440=1377
 Height 900=901
-Kate-MDI-H-Splitter=331,909,200
-Kate-MDI-Sidebar-0-Splitter=1350
-Kate-MDI-Sidebar-3-Splitter=909,0
+Kate-MDI-H-Splitter=331,1233,200
+Kate-MDI-Sidebar-0-Splitter=820
+Kate-MDI-Sidebar-3-Splitter=1233,0
 Kate-MDI-Sidebar-Visible=true
 Kate-MDI-ToolView-kate_plugin_katesearch-Sidebar-Position=1
 Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Persistent=false
@@ -573,31 +587,31 @@ Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_two-Position=3
 Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_two-Sidebar-Position=1
 Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin_two-Visible=true
 Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=2
-Kate-MDI-V-Splitter=150,894,422
-State=AAAA/wAAAAD9AAAAAAAABPwAAAVGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
+Kate-MDI-V-Splitter=150,364,422
+State=AAAA/wAAAAD9AAAAAAAABkAAAAM0AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1600=1276
+Width 1600=1601
 Width 1920=1921
 Width 2560=1276
 
 [MainWindow0 Settings]
 Height 1200=1201
-Height 1440=1441
+Height 1440=1377
 Height 900=901
-State=AAAA/wAAAAD9AAAAAAAABPwAAAVGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABkAAAAM0AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAFeAAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1600=1276
+Width 1600=1601
 Width 1920=1921
 Width 2560=1276
-WindowState=0
+WindowState=2
 
 [MainWindow0-Splitter 0]
-Sizes=909
+Sizes=1233
 
 [MainWindow0-ViewSpace 0]
 Active View=
 Count=1
-View 0=file:///home/atreat/dev/cfpsdk/src/nativesdk/tfs/contrib/quicklz-1.5.0/CMakeLists.txt
+View 0=file:///usr/share/applications/kde4/kate.desktop
 View 1=file:///home/atreat/dev/cfpsdk/src/nativesdk/shared/tvaErrors.h
 View 10=file:///home/atreat/dev/cfpsdk/src/nativesdk/CMakeLists.txt
 View 11=file:///home/atreat/dev/cfpsdk/src/nativesdk/sdk/CMakeLists.txt
@@ -1490,6 +1504,12 @@ CursorLine=39920
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///usr/share/applications/kde4/kate.desktop]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///usr/share/kde4/apps/katepart/syntax/cs.xml]
 CursorColumn=25
 CursorLine=118
@@ -1625,7 +1645,9 @@ SortAscending=true
 SortColumn=0
 
 [filetree]
+editShade=210,181,216
 listMode=true
 shadingEnabled=false
-showFullPathOnRoots=true
-sortRole=34
+showFullPathOnRoots=false
+sortRole=259
+viewShade=185,178,206

@@ -1,5 +1,5 @@
 #!/bin/sh
 
-kwrite "$@"
+vim "$@"
 
 wait
