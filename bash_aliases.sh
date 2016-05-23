@@ -66,6 +66,7 @@ function setup
     fi
 }
 
+setup default
 
 # The next line updates PATH for the Google Cloud SDK.
 source '/Users/atreat/google-cloud-sdk/path.bash.inc'
