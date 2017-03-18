@@ -70,9 +70,3 @@ function setup
 
 setup default
 
-# The next line updates PATH for the Google Cloud SDK.
-source '/Users/atreat/google-cloud-sdk/path.bash.inc'
-
-# The next line enables shell command completion for gcloud.
-source '/Users/atreat/google-cloud-sdk/completion.bash.inc'
-
